@@ -4,7 +4,7 @@ defaultContentLanguage: en
 languageCode: en
 baseURL: 'https://cstate.mnts.lt'
 params:
-  disableDarkMode: false
+  disableDarkMode: true
   shortDateFormat: '15:04 — Jan 2'
   down: '#e60000'
   systems:
