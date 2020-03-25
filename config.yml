@@ -4,7 +4,7 @@ defaultContentLanguage: en
 languageCode: en
 baseURL: 'https://cstate.mnts.lt'
 params:
-  disableDarkMode: true
+  disableDarkMode: false
   shortDateFormat: '15:04 — Jan 2'
   down: '#e60000'
   systems:
@@ -28,7 +28,7 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
-  useLogo: true
+  useLogo: false
   disrupted: '#cc4400'
   notice: '#24478f'
   incidentHistoryFormat: yearly
